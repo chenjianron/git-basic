@@ -30,6 +30,8 @@ Other useful commands to see what is going on the git repository:
 2. Your answer for What is the difference between `add`, `commit`, and `push`?
 
 // Jarrell(陈坚镕)修改过此文件, 以下是git 命令中add, commit , push的不同
+
+
 git add
 将自己的修改提交到缓存中，可以理解为从生产环境把产品放在推车上，还没有进入本地仓库
 git commit
