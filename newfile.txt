@@ -4,6 +4,7 @@
 `pull` changes from the remote repository
 'branch' create a new branch named "branch-1" and push to Github
 
+//以下是在github上直接修改newfile.txt添加的内容
 `add` changes to the staging area
  `commit` changes
 `push` local commits to publish them to GitHub
